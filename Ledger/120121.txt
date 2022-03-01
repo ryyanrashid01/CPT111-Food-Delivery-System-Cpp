@@ -1,0 +1,3 @@
+Burger	2	1000
+Ice_Cream	20	60
+Chicken_Rice	5	100
