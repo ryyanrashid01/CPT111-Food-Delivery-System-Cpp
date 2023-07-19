@@ -1,11 +1,11 @@
-# CPT111 - Principles of Programming
-## Assignment 2 - Food Ordering System
+# Principles of Programming
+## Food Ordering System
 
 ### Introduction
-Assignment 2 focuses on processing multiple related information using two-dimensional arrays and modular program design where you are required to develop your program using user-defined functions. It also requires you to write a program that interact with Input/Output files.
+This project focuses on processing multiple related information using two-dimensional arrays and modular program design where you are required to develop your program using user-defined functions. It also requires you to write a program that interact with Input/Output files. Please keep in mind that this is a practice project and is not a fully functional food ordering system.
 
 ### Problem Statement
-We live in challenging yet interesting times. With COVID-19, social distancing becoming a solid norm and eating in a crowded restaurant is no longer possible. However, we can still enjoy the delicious food from the restaurants by having Food Ordering system. To maintain business, restaurant needs this system to showcase their menu by keeping track the prices, delivery time, number of orders by customers and sales for each item in the menu. The manager will be able to view the total sales, the most popular dish in the menu and number of customers for the day. The pandemic will turn you the system developer into warriors of the modern world.
+To maintain business, restaurant needs a system to showcase their menu by keeping track the prices, delivery time, number of orders by customers and sales for each item in the menu. The manager will be able to view the total sales, the most popular dish in the menu and number of customers for the day. The pandemic will turn you the system developer into warriors of the modern world.
 
 ### Program Specification
 Food Ordering and Delivering system has 2 users, Restaurant Manager and Customer with the following basic process:
